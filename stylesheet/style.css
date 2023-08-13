@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.my-form.my-input {
+    width: 500px;
+    height: 200px
+}
+
+i.src-icon {
+    font-size: 25px;
+    color: royalblue;
+}
+
+button.my-btn {
+    background-color: rgb(255, 150, 10);
+}
+
+img.shop-icon {
+    width: 200px;
+    height: 150px;
+}
+
+section.slider-section {
+    margin-bottom: 8%;
+}
+
+.Categories-heading {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.Categories-heading span {
+    color: rgb(255, 130, 6);
+}
+
+.Categories-heading h2 {
+    color: royalblue;
+}
+
+.Categories {
+    width: 100%;
+    max-height: 500px;
+    padding: 10px;
+    background-color: rgb(255, 130, 6);
+    border-radius: 20px;
+    margin-bottom: 1rem;
+    ;
+}
+
+.items {
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+    font-style: italic;
+}
+
+.items i {
+    color: royalblue;
+}
+
+.items a {
+    text-decoration: none;
+    color: white;
+}
+
+< !--mans-css-->.section-mans-slider {
+    margin-top: 5%;
+}
+
+h5.card-heading {
+    color: rgb(255, 130, 6);
+}
+
+.card i {
+    color: gold;
+}
+
+.card-footer strong {
+    color: #fd7e14;
+}
+
+.cart-btn {
+    font-size: 12px;
+    border: 1px solid #fd7e14;
+    padding: 5px;
+}
+
+.cart-btn i {
+    color: #fd7e14;
+}
+
+.footer {
+    width: 100%;
+    max-height: 500px;
+    background-color: #fd7e14;
+    margin-top: 30px;
+}
+
+.list a{
+    text-decoration:none;
+    font-family:Arial, Helvetica, sans-serif;o
+}
+.footer-section h3{
+    color:royalblue;
+}
+.footer i {
+    color:royalblue;
+    font-size: 35px;
+    margin-left: 1rem;
+    transition: all 1s ease;
+}
+
+.footer i:hover {
+    color:white;
+}
